@@ -1,0 +1,28 @@
+_repo: Every-Man-out-of-His-Humour_3695
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Jonson, Benjamin
+    - Johnson, Ben
+    - Ionson, Ben
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama (Comedy)'
+- !lcc 'PR'
+- GITenberg
+title: Every Man out of His Humour
+url: http://www.gutenberg.org/ebooks/3695
